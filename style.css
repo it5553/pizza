@@ -6,17 +6,15 @@ header{
     background-color:#FFD600;
     height: 100px;
 }
+.logo{
+    position: absolute;
+}
 
 .yy{
     text-align: center;
     position: relative;
     font-size: larger;
     color:#2BC804 ;
-    top:5px;
-}
-.pop{
-    position: relative;
-    bottom:79px;
 }
 .oo{
     font-size: large;
@@ -25,102 +23,34 @@ h1{
     color: #0139FE;
     text-align: center;
 }
-.pp{
-    position: absolute;
-    top:355px;
-    left: 200px;
-}
-.ui{
-    position: absolute;
-    top:350px;
-    left: 490px;
-}
-.rr{
-    position: relative;
-    left: 250px;
-    bottom: 20px;
-}
-.er{
-    position: relative;
-    left: 530px;
-    bottom: 60px;
-}
-.ol{
-    top: 100px;
-}
-.jj{
-    bottom: 7px;
-    position:relative ;
-}
-.pi{
-    position: relative;
-    bottom: 200px;
-    left: 250px;
-}
-.dd{
-    position:relative ;
-    bottom:210px ;
-    left: 270px;
-}
-.xx{
-    position: relative;
-    bottom:420px;
-    left:500px;
-}
 
-.vv{
-     position: relative;
-     bottom:420px;
-     left: 510px;
-  }  
   h2{
     text-align: center;
     position: relative;
-    bottom: 400px;
     color:#FA00FF;
   }
   .cc{
     position:relative ;
-    bottom: 400px;
     color:blue;
   }
 
 .gg{
     position: relative;
-    bottom: 400px;
     color:blue;
 }
 .bb{
     position: relative;
-    bottom:400px;
     color:blue;
 }
 h3{
     text-align: center;
     position: relative;
-    bottom: 370px;
     color:#2AB01E;
-}
-.hj{
-    text-align: center;
-    position: relative;
-    bottom:370px;
 }
 h4{
     position: relative;
     text-align: center;
-    bottom: 340px;
     color:#04F0FF;
-}
-.we{
-    position: relative;
-    bottom: 320px;
-    left: 250px;
-}
-.lk{
-    position: relative;
-    left: 300px;
-    bottom: 320px;
 }
 header a{
   background-color:white;
@@ -133,4 +63,19 @@ a{
 }
 nav{
     text-align: center;
+}
+.tty{
+    text-align: center;
+}
+.sad{
+    display:block;
+}
+.yt{
+    position: relative;
+}
+section{
+    display: flex;
+    width: 800px;
+    flex-wrap: wrap;
+    justify-content: center;
 }
